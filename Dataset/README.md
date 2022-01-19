@@ -1,6 +1,6 @@
 >>>>>>> divvy.csv
 day	             - Mon,Tues..Sun[1,2,3..7]					done - day
-time  			 - 100, 1400 2400							done - time
+\ntime  			 - 100, 1400 2400							done - time
 time_of_day	     - morning, noon, evening, night[1,2,3,4] 	done - time-d
 typetime         - early, usual, late[1,2,3]					done - time-dd
 season           - Spring, Summer, Fall, winter [1,2,3,4]	done - season

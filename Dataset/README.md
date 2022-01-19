@@ -1,27 +1,27 @@
->>>>>>> divvy.csv
-day	             - Mon,Tues..Sun[1,2,3..7]					done - day
-\ntime  			 - 100, 1400 2400							done - time
-time_of_day	     - morning, noon, evening, night[1,2,3,4] 	done - time-d
-typetime         - early, usual, late[1,2,3]					done - time-dd
-season           - Spring, Summer, Fall, winter [1,2,3,4]	done - season
-holiday			 - 1,0                  					yet to add
-start_time       -      									done - 
-end_time         - 											done - 
-bike-type        - electric, classic[1,0]					done - 
-start_station_id - 											done - 
-end_statio_id    -											done - 
-station names?   - 
-member-type      - casual, member							done - 
-gender           - if possible
-number_of_crimes - number[on per day] ---------
-number_of_rides  - number
-trip_duration    - 
+### divvy.csv
+day	             - Mon,Tues..Sun[1,2,3..7]					<br />
+time  			 - 100, 1400 2400						        <br />
+time_of_day	     - morning, noon, evening, night[1,2,3,4] <br />
+typetime         - early, usual, late[1,2,3]				<br />
+season           - Spring, Summer, Fall, winter [1,2,3,4]	<br />
+holiday			 - 1,0                  					y<br />
+start_time       -      									<br />
+end_time         - 											<br />
+bike-type        - electric, classic[1,0]				<br />
+start_station_id - 											<br />
+end_statio_id    -										<br />
+station names?   - <br />
+member-type      - casual, member						<br />
+gender           -  <br />
+number_of_crimes - number <br />
+number_of_rides  - number <br />
+trip_duration    - <br />
 
->>>>>>> weather.csv
-windspeed        - float(kmph)								done - h-windSpeedMiles
-temperature      - number(in C)								done - h-tempC
-temp_feels_like  - number(in C)								done - h-FeelsLikeC
-snow             - number(units?)							done - totalSnow_cm
-rain 		     - number(inches)							done - h-precipMM
-uvIndex 		 - number									done - h-uvIndex
-visibility       - number(miles)							done - h-visibilityKM
+### weather.csv
+windspeed        - float(kmph)								done - h-windSpeedMiles <br />
+temperature      - number(in C)								done - h-tempC <br />
+temp_feels_like  - number(in C)								done - h-FeelsLikeC <br />
+snow             - number(units?)							done - totalSnow_cm <br />
+rain 		     - number(inches)							    done - h-precipMM <br />
+uvIndex 		 - number									        done - h-uvIndex <br />
+visibility       - number(miles)							done - h-visibilityKM <br />

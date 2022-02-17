@@ -5,17 +5,17 @@ time_of_day	     - morning, noon, evening, night[1,2,3,4] <br />
 typetime         - early, usual, late[1,2,3]				<br />
 season           - Spring, Summer, Fall, winter [1,2,3,4]	<br />
 holiday			 - 1,0                  					y<br />
-start_time       -      									<br />
-end_time         - 											<br />
+start_time            									<br />
+end_time         											<br />
 bike-type        - electric, classic[1,0]				<br />
-start_station_id - 											<br />
-end_statio_id    -										<br />
-station names?   - <br />
+start_station_id 											<br />
+end_statio_id    									<br />
+station names?   <br />
 member-type      - casual, member						<br />
-gender           -  <br />
+gender            <br />
 number_of_crimes - number <br />
 number_of_rides  - number <br />
-trip_duration    - <br />
+trip_duration    <br />
 
 ### weather.csv
 windspeed        - float(kmph)								done - h-windSpeedMiles <br />
